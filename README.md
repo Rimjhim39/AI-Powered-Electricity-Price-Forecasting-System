@@ -1,2 +1,2 @@
-# Electricity-Price-Forecasting
-A web application that predicts short-term electricity prices using a LightGBM machine learning model. Built with Python, Flask, HTML, CSS, and JavaScript, it displays predicted prices through graphs and tables and provides a simple BUY or SELL recommendation based on forecasted price trends.
+AI-Powered-Electricity-Forecast
+AI-powered web application for forecasting short-term electricity prices using a LightGBM machine learning model. Built with Python, Flask, REST APIs, HTML, CSS, and JavaScript, the platform provides interactive dashboards, real-time analytics, graphical visualizations, and intelligent BUY/SELL recommendations based on forecasted energy price trends.
